@@ -1,0 +1,7 @@
+﻿scenario_id,rain_start_min,moisture_onset_min,positive_pressure_onset_min,c2_activation_onset_min,rain_to_moisture_min,moisture_to_pressure_min,pressure_to_c2_min
+HIGH_40mmh_10min,10.0,11.0,24.0,65.0,1.0,13.0,41.0
+HIGH_40mmh_20min,10.0,11.0,24.0,42.0,1.0,13.0,18.0
+HIGH_40mmh_30min,10.0,11.0,24.0,41.0,1.0,13.0,17.0
+LOW_20mmh_10min,10.0,11.0,,,1.0,,
+LOW_20mmh_20min,10.0,11.0,31.0,74.0,1.0,20.0,43.0
+LOW_20mmh_30min,10.0,11.0,31.0,56.0,1.0,20.0,25.0

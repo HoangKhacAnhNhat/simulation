@@ -1,0 +1,85 @@
+﻿scope,variable_1,variable_2,n,pearson_r,pearson_p,spearman_rho,spearman_p,note
+ALL_6_SCENARIOS,cumulative_rainfall_mm,moisture_percent_vwc,900,0.9405832707657369,0.0,0.9419522104110226,0.0,OK
+ALL_6_SCENARIOS,moisture_percent_vwc,delayed_moisture_percent,900,0.9615541989357936,0.0,0.9572381571568992,0.0,OK
+ALL_6_SCENARIOS,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,900,0.748083803939708,4.219743054322992e-162,0.8239805053879314,9.202124497990354e-224,OK
+ALL_6_SCENARIOS,wetness_drive_0_1,pore_pressure_positive_kpa_synthetic,900,0.7389611906119893,3.522901616340811e-156,0.8315870046194954,1.436396515460923e-231,OK
+ALL_6_SCENARIOS,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,900,0.9776522115024757,0.0,0.9659927131278402,0.0,OK
+ALL_6_SCENARIOS,c2_motion_activation_0_1,c2_dynamic_rms_g_synthetic,900,0.9649550952134421,0.0,1.0,0.0,OK
+ALL_6_SCENARIOS,c2_motion_activation_0_1,c2_gyro_rms_deg_s_synthetic,900,0.9656204207504534,0.0,1.0,0.0,OK
+ALL_6_SCENARIOS,c2_motion_activation_0_1,c2_tilt_deg_synthetic,900,0.9810147882366467,0.0,1.0,0.0,OK
+ALL_6_SCENARIOS,pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,900,0.18636253703051395,1.775939766291511e-08,0.12547912617474258,0.00016060694088288532,OK
+ALL_6_SCENARIOS,pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,900,0.07709429579238636,0.020719462257986387,0.0863279009538841,0.009567629847689857,OK
+ALL_6_SCENARIOS,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,900,0.0003744384412072582,0.991049884093368,0.031831674729777965,0.34015208586808077,OK
+ALL_6_SCENARIOS,rainfall_mm_h,moisture_percent_vwc,900,-0.021551545294339846,0.5184588920078511,-0.0763901086456409,0.02191327047409911,OK
+HIGH_40mmh_10min,cumulative_rainfall_mm,moisture_percent_vwc,140,0.8002609780400691,1.8894956342086946e-32,0.48331073404065894,1.4628087365598247e-09,OK
+HIGH_40mmh_10min,moisture_percent_vwc,delayed_moisture_percent,140,0.8427419325424802,6.132062983489815e-39,0.7875664210273121,8.270595867971898e-31,OK
+HIGH_40mmh_10min,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,140,0.37404362301856786,5.3029692631727785e-06,-0.04545938914148211,0.5938008552276424,OK
+HIGH_40mmh_10min,wetness_drive_0_1,pore_pressure_positive_kpa_synthetic,140,0.0419604687693298,0.6225435743648589,-0.04552563871785461,0.5932624688605279,OK
+HIGH_40mmh_10min,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,140,0.8672318560422763,1.2537731667498436e-43,0.9600266372886309,3.442869449342612e-78,OK
+HIGH_40mmh_10min,c2_motion_activation_0_1,c2_dynamic_rms_g_synthetic,140,0.9975230806939765,5.573502799865326e-161,0.9999999999999998,0.0,OK
+HIGH_40mmh_10min,c2_motion_activation_0_1,c2_gyro_rms_deg_s_synthetic,140,0.9977284573379319,1.4300284485957647e-163,0.9999999999999998,0.0,OK
+HIGH_40mmh_10min,c2_motion_activation_0_1,c2_tilt_deg_synthetic,140,0.9996440228166389,4.418053254193202e-219,0.9999999999999998,0.0,OK
+HIGH_40mmh_10min,pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,140,0.36575257761114416,8.838011914546746e-06,0.18453173834505646,0.02906428508396652,OK
+HIGH_40mmh_10min,pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,140,0.06052097629752684,0.4775024763538383,0.09277623043637932,0.2756009444089482,OK
+HIGH_40mmh_10min,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,140,-0.006672988074590045,0.9376301033461967,0.056655642180549734,0.5061254206264221,OK
+HIGH_40mmh_10min,rainfall_mm_h,moisture_percent_vwc,140,-0.2096990049043,0.01289486850427366,-0.17706050411454832,0.03636787368022476,OK
+HIGH_40mmh_20min,cumulative_rainfall_mm,moisture_percent_vwc,150,0.8706121036286891,1.9153942674304838e-47,0.5122228695928434,2.0834243694996315e-11,OK
+HIGH_40mmh_20min,moisture_percent_vwc,delayed_moisture_percent,150,0.9055751910263635,5.455332880848575e-57,0.8388052802346772,6.468566263785568e-41,OK
+HIGH_40mmh_20min,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,150,0.48879746773116517,2.2073972171758522e-10,0.006944933132722916,0.9327804019832993,OK
+HIGH_40mmh_20min,wetness_drive_0_1,pore_pressure_positive_kpa_synthetic,150,0.42440619317316636,6.215514957957932e-08,0.006953158541847779,0.9327009757708767,OK
+HIGH_40mmh_20min,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,150,0.9846172948121377,4.91155672029636e-114,0.991747531390097,6.16837236986083e-134,OK
+HIGH_40mmh_20min,c2_motion_activation_0_1,c2_dynamic_rms_g_synthetic,150,0.9821452450274119,2.76443937826617e-109,1.0,0.0,OK
+HIGH_40mmh_20min,c2_motion_activation_0_1,c2_gyro_rms_deg_s_synthetic,150,0.9825772929583846,4.5834419435638774e-110,1.0,0.0,OK
+HIGH_40mmh_20min,c2_motion_activation_0_1,c2_tilt_deg_synthetic,150,0.9915973551368928,2.3301808846172544e-133,1.0,0.0,OK
+HIGH_40mmh_20min,pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,150,0.33277264063555434,3.1722603478531055e-05,0.182624502867944,0.02529816892596964,OK
+HIGH_40mmh_20min,pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,150,0.08256248502749389,0.31516808909575084,0.08112985075399026,0.32366738093512515,OK
+HIGH_40mmh_20min,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,150,-0.0071018831517640595,0.9312649760662882,0.06422083926883539,0.4349389093037868,OK
+HIGH_40mmh_20min,rainfall_mm_h,moisture_percent_vwc,150,-0.27031444333943366,0.0008214281599080624,-0.23461301515524968,0.003854620048049324,OK
+HIGH_40mmh_30min,cumulative_rainfall_mm,moisture_percent_vwc,160,0.8826192653057221,1.1475477033746976e-53,0.52399346788714,1.1555354427544273e-12,OK
+HIGH_40mmh_30min,moisture_percent_vwc,delayed_moisture_percent,160,0.9363796355781566,9.692546772190382e-74,0.8841907887026836,4.218853334243214e-54,OK
+HIGH_40mmh_30min,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,160,0.5725799844069184,2.5622960239884553e-15,0.10861901421568532,0.17155950251822752,OK
+HIGH_40mmh_30min,wetness_drive_0_1,pore_pressure_positive_kpa_synthetic,160,0.5492800634476447,5.4319692897121564e-14,0.10872498129026173,0.1711394326977007,OK
+HIGH_40mmh_30min,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,160,0.9919466987480576,1.047786462121829e-143,0.993793692627222,1.2976586942892478e-152,OK
+HIGH_40mmh_30min,c2_motion_activation_0_1,c2_dynamic_rms_g_synthetic,160,0.980049339852005,8.802260150684591e-113,1.0,0.0,OK
+HIGH_40mmh_30min,c2_motion_activation_0_1,c2_gyro_rms_deg_s_synthetic,160,0.9803838454680489,2.344850965516908e-113,1.0,0.0,OK
+HIGH_40mmh_30min,c2_motion_activation_0_1,c2_tilt_deg_synthetic,160,0.9884654796701392,1.9399437199705326e-131,1.0,0.0,OK
+HIGH_40mmh_30min,pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,160,0.2972153798832278,0.0001352774861167113,0.10857501753137891,0.17173413656501796,OK
+HIGH_40mmh_30min,pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,160,0.1213120870259322,0.1264857499279651,0.15092622584473708,0.05677471336528527,OK
+HIGH_40mmh_30min,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,160,0.001509852393703836,0.9848821446336699,0.05278423272450764,0.507394030391329,OK
+HIGH_40mmh_30min,rainfall_mm_h,moisture_percent_vwc,160,-0.28045211210010557,0.00032812911000712865,-0.2482331861625549,0.0015508357918316128,OK
+LOW_20mmh_10min,cumulative_rainfall_mm,moisture_percent_vwc,140,0.6156324386707779,5.755847495237894e-16,0.4267451322815714,1.458709111891964e-07,OK
+LOW_20mmh_10min,moisture_percent_vwc,delayed_moisture_percent,140,0.8467408893999238,1.1985975362421158e-39,0.8397979488749427,1.9814717615921495e-38,OK
+LOW_20mmh_10min,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,140,,,,,Không xác định: có biến không đổi hoặc áp lực bằng 0
+LOW_20mmh_10min,wetness_drive_0_1,pore_pressure_positive_kpa_synthetic,140,,,,,Không xác định: có biến không đổi hoặc áp lực bằng 0
+LOW_20mmh_10min,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,140,,,,,Không xác định: có biến không đổi hoặc áp lực bằng 0
+LOW_20mmh_10min,c2_motion_activation_0_1,c2_dynamic_rms_g_synthetic,140,,,,,Không xác định: có biến không đổi hoặc áp lực bằng 0
+LOW_20mmh_10min,c2_motion_activation_0_1,c2_gyro_rms_deg_s_synthetic,140,,,,,Không xác định: có biến không đổi hoặc áp lực bằng 0
+LOW_20mmh_10min,c2_motion_activation_0_1,c2_tilt_deg_synthetic,140,,,,,Không xác định: có biến không đổi hoặc áp lực bằng 0
+LOW_20mmh_10min,pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,140,,,,,Không xác định: có biến không đổi hoặc áp lực bằng 0
+LOW_20mmh_10min,pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,140,,,,,Không xác định: có biến không đổi hoặc áp lực bằng 0
+LOW_20mmh_10min,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,140,,,,,Không xác định: có biến không đổi hoặc áp lực bằng 0
+LOW_20mmh_10min,rainfall_mm_h,moisture_percent_vwc,140,-0.10529878063712131,0.21564666130072555,-0.09333421922317275,0.2727110704894206,OK
+LOW_20mmh_20min,cumulative_rainfall_mm,moisture_percent_vwc,150,0.7994196912448387,1.4481615750611015e-34,0.48155746833482954,4.4190175021667147e-10,OK
+LOW_20mmh_20min,moisture_percent_vwc,delayed_moisture_percent,150,0.8988166047109993,7.03957673598157e-55,0.8605733588159474,3.2789061701924403e-45,OK
+LOW_20mmh_20min,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,150,0.4218309375639277,7.607788223892147e-08,0.0941329212701915,0.2518821026343618,OK
+LOW_20mmh_20min,wetness_drive_0_1,pore_pressure_positive_kpa_synthetic,150,0.08861354554890512,0.280884819984064,0.08492558553609249,0.30146880644552954,OK
+LOW_20mmh_20min,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,150,0.8502039647771469,4.433265936434437e-43,0.9538405527749593,3.2914894130691695e-79,OK
+LOW_20mmh_20min,c2_motion_activation_0_1,c2_dynamic_rms_g_synthetic,150,0.9977955221457789,2.9001646126891433e-176,0.9999999999999998,0.0,OK
+LOW_20mmh_20min,c2_motion_activation_0_1,c2_gyro_rms_deg_s_synthetic,150,0.997991610791025,2.962176834921197e-179,0.9999999999999998,0.0,OK
+LOW_20mmh_20min,c2_motion_activation_0_1,c2_tilt_deg_synthetic,150,0.9997117559094161,1.2884193350324379e-241,0.9999999999999998,0.0,OK
+LOW_20mmh_20min,pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,150,0.3315723174266815,3.400881200136849e-05,0.1817630341401711,0.026008298771893708,OK
+LOW_20mmh_20min,pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,150,0.07219558749456353,0.37996471992205916,0.06889553435036709,0.40218135140779065,OK
+LOW_20mmh_20min,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,150,-0.005860780259749355,0.9432547016725322,0.0655782737387066,0.42527309052500684,OK
+LOW_20mmh_20min,rainfall_mm_h,moisture_percent_vwc,150,-0.22700680672556905,0.005213094998510289,-0.19520889871025604,0.01667083312035442,OK
+LOW_20mmh_30min,cumulative_rainfall_mm,moisture_percent_vwc,160,0.8495176781002336,9.787796518070588e-46,0.5170970341818539,2.5479519353485858e-12,OK
+LOW_20mmh_30min,moisture_percent_vwc,delayed_moisture_percent,160,0.9332168926816384,3.9479293355987997e-72,0.8936804172037969,7.239968547462687e-57,OK
+LOW_20mmh_30min,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,160,0.48483492675487905,8.208131445194752e-11,0.10514830666348125,0.18574377800259317,OK
+LOW_20mmh_30min,wetness_drive_0_1,pore_pressure_positive_kpa_synthetic,160,0.3728175188301457,1.2036795423390674e-06,0.1053743047873666,0.18479479411397234,OK
+LOW_20mmh_30min,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,160,0.9703816102731143,2.175930657284155e-99,0.9835585214230742,2.3255084212257946e-119,OK
+LOW_20mmh_30min,c2_motion_activation_0_1,c2_dynamic_rms_g_synthetic,160,0.9879606470450442,5.61024233122227e-130,1.0,0.0,OK
+LOW_20mmh_30min,c2_motion_activation_0_1,c2_gyro_rms_deg_s_synthetic,160,0.9884028005959105,2.969395869145873e-131,1.0,0.0,OK
+LOW_20mmh_30min,c2_motion_activation_0_1,c2_tilt_deg_synthetic,160,0.9958393317225056,2.676191381286937e-166,1.0,0.0,OK
+LOW_20mmh_30min,pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,160,0.2806383338036009,0.00032501244694615604,0.13302202055737564,0.09356635313534944,OK
+LOW_20mmh_30min,pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,160,0.11729857535369512,0.13962376314419195,0.115812036001668,0.14474546432827495,OK
+LOW_20mmh_30min,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,160,0.001489981197855695,0.9850810878921914,0.055447783710936394,0.4861771455320735,OK
+LOW_20mmh_30min,rainfall_mm_h,moisture_percent_vwc,160,-0.2741249130733771,0.0004520226103555715,-0.23991252070459218,0.0022458044056472273,OK

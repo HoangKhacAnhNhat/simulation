@@ -1,0 +1,193 @@
+﻿scenario_id,sensor,variable,state,n,median,q25,q75
+HIGH_40mmh_10min,Độ ẩm đất,moisture_percent_vwc,STABLE,12,14.93285905621439,14.892268333932645,14.973783749999999
+HIGH_40mmh_10min,Độ ẩm đất,moisture_percent_vwc,WATER_ACCUMULATION,128,19.430351371371067,18.598127285720103,20.312092323864782
+HIGH_40mmh_10min,Độ ẩm đất,moisture_percent_vwc,DEFORMATION,0,,,
+HIGH_40mmh_10min,Độ ẩm đất,moisture_percent_vwc,SLIDING,0,,,
+HIGH_40mmh_10min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,STABLE,12,0.0,0.0,0.0
+HIGH_40mmh_10min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,WATER_ACCUMULATION,128,0.6381646058637349,0.30439772200057846,0.7088961887908194
+HIGH_40mmh_10min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,DEFORMATION,0,,,
+HIGH_40mmh_10min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,SLIDING,0,,,
+HIGH_40mmh_10min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,STABLE,12,0.00046606452159959997,0.00045396529108695,0.00047697452147535
+HIGH_40mmh_10min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,WATER_ACCUMULATION,128,0.0005268363735264001,0.000520160131748675,0.00053254634929755
+HIGH_40mmh_10min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,DEFORMATION,0,,,
+HIGH_40mmh_10min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,SLIDING,0,,,
+HIGH_40mmh_10min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,STABLE,12,0.0578731823095328,0.0569276166491287,0.059432781931296474
+HIGH_40mmh_10min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,WATER_ACCUMULATION,128,0.06000148879255855,0.058855547887906354,0.061227819627537
+HIGH_40mmh_10min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,DEFORMATION,0,,,
+HIGH_40mmh_10min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,SLIDING,0,,,
+HIGH_40mmh_10min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,STABLE,12,0.15000087883401686,0.13939371308346835,0.1924269053341592
+HIGH_40mmh_10min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,WATER_ACCUMULATION,128,0.15000087883401605,0.10757221583182452,0.192426905334159
+HIGH_40mmh_10min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,DEFORMATION,0,,,
+HIGH_40mmh_10min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,SLIDING,0,,,
+HIGH_40mmh_10min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,STABLE,12,0.00052,0.00052,0.00052
+HIGH_40mmh_10min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,WATER_ACCUMULATION,128,0.0006746799134529501,0.00052,0.0008141364864721751
+HIGH_40mmh_10min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,DEFORMATION,0,,,
+HIGH_40mmh_10min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,SLIDING,0,,,
+HIGH_40mmh_10min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,STABLE,12,0.06,0.06,0.06
+HIGH_40mmh_10min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,WATER_ACCUMULATION,128,0.0712012141045392,0.06,0.0811546589096918
+HIGH_40mmh_10min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,DEFORMATION,0,,,
+HIGH_40mmh_10min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,SLIDING,0,,,
+HIGH_40mmh_10min,Góc nghiêng C2,c2_tilt_deg_synthetic,STABLE,12,0.15,0.15,0.15
+HIGH_40mmh_10min,Góc nghiêng C2,c2_tilt_deg_synthetic,WATER_ACCUMULATION,128,0.35712089617294623,0.15,0.5080093233209297
+HIGH_40mmh_10min,Góc nghiêng C2,c2_tilt_deg_synthetic,DEFORMATION,0,,,
+HIGH_40mmh_10min,Góc nghiêng C2,c2_tilt_deg_synthetic,SLIDING,0,,,
+HIGH_40mmh_20min,Độ ẩm đất,moisture_percent_vwc,STABLE,10,14.918060479045746,14.88492442349892,14.951418513851248
+HIGH_40mmh_20min,Độ ẩm đất,moisture_percent_vwc,WATER_ACCUMULATION,51,25.20345342379333,23.256765610753465,25.73795928560681
+HIGH_40mmh_20min,Độ ẩm đất,moisture_percent_vwc,DEFORMATION,89,22.965391599655955,22.13609930215341,23.85135166969189
+HIGH_40mmh_20min,Độ ẩm đất,moisture_percent_vwc,SLIDING,0,,,
+HIGH_40mmh_20min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,STABLE,10,0.0,0.0,0.0
+HIGH_40mmh_20min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,WATER_ACCUMULATION,51,0.3256357042884588,0.00855568555043135,0.8231307405858512
+HIGH_40mmh_20min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,DEFORMATION,89,2.0935582029355,1.7997730044685851,2.2326054673017386
+HIGH_40mmh_20min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,SLIDING,0,,,
+HIGH_40mmh_20min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,STABLE,10,0.00046010994704549996,0.00045325831507945,0.00046916173165605
+HIGH_40mmh_20min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,WATER_ACCUMULATION,51,0.0005250644178263,0.00052086909616825,0.00053076826932365
+HIGH_40mmh_20min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,DEFORMATION,89,0.0005275291837508,0.000518793120127,0.0005329952528538
+HIGH_40mmh_20min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,SLIDING,0,,,
+HIGH_40mmh_20min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,STABLE,10,0.05746837810231935,0.0566335104550713,0.05878963170320975
+HIGH_40mmh_20min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,WATER_ACCUMULATION,51,0.0602108120996076,0.059178293882813746,0.06130385039842065
+HIGH_40mmh_20min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,DEFORMATION,89,0.0600803033013088,0.0588768855368664,0.0611172306382068
+HIGH_40mmh_20min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,SLIDING,0,,,
+HIGH_40mmh_20min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,STABLE,10,0.15000087883401655,0.11817938158237225,0.1924269053341592
+HIGH_40mmh_20min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,WATER_ACCUMULATION,51,0.1500008788340169,0.10757221583182405,0.19242690533415896
+HIGH_40mmh_20min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,DEFORMATION,89,0.1500008788340159,0.1075722158318246,0.1924269053341591
+HIGH_40mmh_20min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,SLIDING,0,,,
+HIGH_40mmh_20min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,STABLE,10,0.00052,0.00052,0.00052
+HIGH_40mmh_20min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,WATER_ACCUMULATION,51,0.00052,0.00052,0.0009268066595895499
+HIGH_40mmh_20min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,DEFORMATION,89,0.0079027502385267,0.0055322770909551,0.0092093661404129
+HIGH_40mmh_20min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,SLIDING,0,,,
+HIGH_40mmh_20min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,STABLE,10,0.06,0.06,0.06
+HIGH_40mmh_20min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,WATER_ACCUMULATION,51,0.06,0.06,0.08914881434911845
+HIGH_40mmh_20min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,DEFORMATION,89,0.5750991054986929,0.4105719521011678,0.6656967314025256
+HIGH_40mmh_20min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,SLIDING,0,,,
+HIGH_40mmh_20min,Góc nghiêng C2,c2_tilt_deg_synthetic,STABLE,10,0.15,0.15,0.15
+HIGH_40mmh_20min,Góc nghiêng C2,c2_tilt_deg_synthetic,WATER_ACCUMULATION,51,0.15,0.15,0.6182111678012887
+HIGH_40mmh_20min,Góc nghiêng C2,c2_tilt_deg_synthetic,DEFORMATION,89,5.220453934929451,3.8050545318843847,5.978307843476299
+HIGH_40mmh_20min,Góc nghiêng C2,c2_tilt_deg_synthetic,SLIDING,0,,,
+HIGH_40mmh_30min,Độ ẩm đất,moisture_percent_vwc,STABLE,10,14.918060479045746,14.88492442349892,14.951418513851248
+HIGH_40mmh_30min,Độ ẩm đất,moisture_percent_vwc,WATER_ACCUMULATION,44,27.31504336081592,22.34039381031777,29.41240949400244
+HIGH_40mmh_30min,Độ ẩm đất,moisture_percent_vwc,DEFORMATION,35,28.15709428061714,27.699283446436276,28.6267889163502
+HIGH_40mmh_30min,Độ ẩm đất,moisture_percent_vwc,SLIDING,71,25.484234476073265,24.691140077315403,26.320180539759924
+HIGH_40mmh_30min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,STABLE,10,0.0,0.0,0.0
+HIGH_40mmh_30min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,WATER_ACCUMULATION,44,0.1983285495046319,0.000666645576335625,0.6904047883340464
+HIGH_40mmh_30min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,DEFORMATION,35,2.0737749439947364,1.735975860268466,2.3498764462477277
+HIGH_40mmh_30min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,SLIDING,71,3.0971231832971,2.9130353765591925,3.186171287456618
+HIGH_40mmh_30min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,STABLE,10,0.00046010994704549996,0.00045325831507945,0.00046916173165605
+HIGH_40mmh_30min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,WATER_ACCUMULATION,44,0.000526733440463,0.000521612364098725,0.0005322649377313
+HIGH_40mmh_30min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,DEFORMATION,35,0.0005271537109182,0.0005203504202612,0.0005311027328809999
+HIGH_40mmh_30min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,SLIDING,71,0.0005264611234692,0.00051753336113365,0.0005327883807237
+HIGH_40mmh_30min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,STABLE,10,0.05746837810231935,0.0566335104550713,0.05878963170320975
+HIGH_40mmh_30min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,WATER_ACCUMULATION,44,0.06039478694208805,0.059319329168663226,0.061381554942786826
+HIGH_40mmh_30min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,DEFORMATION,35,0.0596642403614003,0.058255792004062196,0.0609754422799453
+HIGH_40mmh_30min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,SLIDING,71,0.060222365632766,0.05930973926415585,0.0613654502149327
+HIGH_40mmh_30min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,STABLE,10,0.15000087883401655,0.11817938158237225,0.1924269053341592
+HIGH_40mmh_30min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,WATER_ACCUMULATION,44,0.150000878834017,0.10757221583182387,0.1924269053341589
+HIGH_40mmh_30min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,DEFORMATION,35,0.1500008788340162,0.1075722158318242,0.1924269053341591
+HIGH_40mmh_30min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,SLIDING,71,0.1500008788340154,0.1075722158318247,0.1924269053341591
+HIGH_40mmh_30min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,STABLE,10,0.00052,0.00052,0.00052
+HIGH_40mmh_30min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,WATER_ACCUMULATION,44,0.00052,0.00052,0.00066772305531245
+HIGH_40mmh_30min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,DEFORMATION,35,0.0073845026443878,0.0048263467190153495,0.00992060408910585
+HIGH_40mmh_30min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,SLIDING,71,0.0188316541216807,0.016344650871014298,0.020132685106987798
+HIGH_40mmh_30min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,STABLE,10,0.06,0.06,0.06
+HIGH_40mmh_30min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,WATER_ACCUMULATION,44,0.06,0.06,0.07069941199203761
+HIGH_40mmh_30min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,DEFORMATION,35,0.5391496139616688,0.36151685580622295,0.7149919669826506
+HIGH_40mmh_30min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,SLIDING,71,1.331869607501981,1.1598075473288723,1.4218581256517817
+HIGH_40mmh_30min,Góc nghiêng C2,c2_tilt_deg_synthetic,STABLE,10,0.15,0.15,0.15
+HIGH_40mmh_30min,Góc nghiêng C2,c2_tilt_deg_synthetic,WATER_ACCUMULATION,44,0.15,0.15,0.3482941970035802
+HIGH_40mmh_30min,Góc nghiêng C2,c2_tilt_deg_synthetic,DEFORMATION,35,4.91605580714924,3.3690782268848807,6.385827553854315
+HIGH_40mmh_30min,Góc nghiêng C2,c2_tilt_deg_synthetic,SLIDING,71,11.309398542045937,9.960814392369299,12.009300015802165
+LOW_20mmh_10min,Độ ẩm đất,moisture_percent_vwc,STABLE,130,16.76177290275527,16.13732771477588,17.449748346115697
+LOW_20mmh_10min,Độ ẩm đất,moisture_percent_vwc,WATER_ACCUMULATION,10,16.775722889666373,16.00855759107163,17.516713684179788
+LOW_20mmh_10min,Độ ẩm đất,moisture_percent_vwc,DEFORMATION,0,,,
+LOW_20mmh_10min,Độ ẩm đất,moisture_percent_vwc,SLIDING,0,,,
+LOW_20mmh_10min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,STABLE,130,0.0,0.0,0.0
+LOW_20mmh_10min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,WATER_ACCUMULATION,10,0.0,0.0,0.0
+LOW_20mmh_10min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,DEFORMATION,0,,,
+LOW_20mmh_10min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,SLIDING,0,,,
+LOW_20mmh_10min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,STABLE,130,0.0005250508993148,0.000518031697675875,0.0005312034125468999
+LOW_20mmh_10min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,WATER_ACCUMULATION,10,0.0005306769789397,0.000527742768889075,0.00053599080911465
+LOW_20mmh_10min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,DEFORMATION,0,,,
+LOW_20mmh_10min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,SLIDING,0,,,
+LOW_20mmh_10min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,STABLE,130,0.0596957781413224,0.058503905792661674,0.06108117652367095
+LOW_20mmh_10min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,WATER_ACCUMULATION,10,0.060231063777109295,0.05850991014156117,0.061398794073380475
+LOW_20mmh_10min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,DEFORMATION,0,,,
+LOW_20mmh_10min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,SLIDING,0,,,
+LOW_20mmh_10min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,STABLE,130,0.1500008788340162,0.1075722158318246,0.1924269053341591
+LOW_20mmh_10min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,WATER_ACCUMULATION,10,0.15000087883401644,0.10757221583182405,0.18182039870912348
+LOW_20mmh_10min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,DEFORMATION,0,,,
+LOW_20mmh_10min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,SLIDING,0,,,
+LOW_20mmh_10min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,STABLE,130,0.00052,0.00052,0.00052
+LOW_20mmh_10min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,WATER_ACCUMULATION,10,0.00052,0.00052,0.00052
+LOW_20mmh_10min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,DEFORMATION,0,,,
+LOW_20mmh_10min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,SLIDING,0,,,
+LOW_20mmh_10min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,STABLE,130,0.06,0.06,0.06
+LOW_20mmh_10min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,WATER_ACCUMULATION,10,0.06,0.06,0.06
+LOW_20mmh_10min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,DEFORMATION,0,,,
+LOW_20mmh_10min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,SLIDING,0,,,
+LOW_20mmh_10min,Góc nghiêng C2,c2_tilt_deg_synthetic,STABLE,130,0.15,0.15,0.15
+LOW_20mmh_10min,Góc nghiêng C2,c2_tilt_deg_synthetic,WATER_ACCUMULATION,10,0.15,0.15,0.15
+LOW_20mmh_10min,Góc nghiêng C2,c2_tilt_deg_synthetic,DEFORMATION,0,,,
+LOW_20mmh_10min,Góc nghiêng C2,c2_tilt_deg_synthetic,SLIDING,0,,,
+LOW_20mmh_20min,Độ ẩm đất,moisture_percent_vwc,STABLE,10,14.918060479045746,14.88492442349892,14.951418513851248
+LOW_20mmh_20min,Độ ẩm đất,moisture_percent_vwc,WATER_ACCUMULATION,140,19.1918178196217,18.3555022754153,20.111835815000827
+LOW_20mmh_20min,Độ ẩm đất,moisture_percent_vwc,DEFORMATION,0,,,
+LOW_20mmh_20min,Độ ẩm đất,moisture_percent_vwc,SLIDING,0,,,
+LOW_20mmh_20min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,STABLE,10,0.0,0.0,0.0
+LOW_20mmh_20min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,WATER_ACCUMULATION,140,0.5882757764237108,0.20902861896047503,0.6626493453611445
+LOW_20mmh_20min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,DEFORMATION,0,,,
+LOW_20mmh_20min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,SLIDING,0,,,
+LOW_20mmh_20min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,STABLE,10,0.00046010994704549996,0.00045325831507945,0.00046916173165605
+LOW_20mmh_20min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,WATER_ACCUMULATION,140,0.00052711163961725,0.000520160131748675,0.0005326619113925251
+LOW_20mmh_20min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,DEFORMATION,0,,,
+LOW_20mmh_20min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,SLIDING,0,,,
+LOW_20mmh_20min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,STABLE,10,0.05746837810231935,0.0566335104550713,0.05878963170320975
+LOW_20mmh_20min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,WATER_ACCUMULATION,140,0.06008485053351175,0.059030184212919,0.0612302843289714
+LOW_20mmh_20min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,DEFORMATION,0,,,
+LOW_20mmh_20min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,SLIDING,0,,,
+LOW_20mmh_20min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,STABLE,10,0.15000087883401655,0.11817938158237225,0.1924269053341592
+LOW_20mmh_20min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,WATER_ACCUMULATION,140,0.15000087883401614,0.10757221583182455,0.192426905334159
+LOW_20mmh_20min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,DEFORMATION,0,,,
+LOW_20mmh_20min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,SLIDING,0,,,
+LOW_20mmh_20min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,STABLE,10,0.00052,0.00052,0.00052
+LOW_20mmh_20min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,WATER_ACCUMULATION,140,0.0006080604784643,0.00052,0.000729370580757075
+LOW_20mmh_20min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,DEFORMATION,0,,,
+LOW_20mmh_20min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,SLIDING,0,,,
+LOW_20mmh_20min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,STABLE,10,0.06,0.06,0.06
+LOW_20mmh_20min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,WATER_ACCUMULATION,140,0.06640940784688079,0.06,0.07511446557527965
+LOW_20mmh_20min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,DEFORMATION,0,,,
+LOW_20mmh_20min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,SLIDING,0,,,
+LOW_20mmh_20min,Góc nghiêng C2,c2_tilt_deg_synthetic,STABLE,10,0.15,0.15,0.15
+LOW_20mmh_20min,Góc nghiêng C2,c2_tilt_deg_synthetic,WATER_ACCUMULATION,140,0.2759227628283799,0.15,0.4187140703645511
+LOW_20mmh_20min,Góc nghiêng C2,c2_tilt_deg_synthetic,DEFORMATION,0,,,
+LOW_20mmh_20min,Góc nghiêng C2,c2_tilt_deg_synthetic,SLIDING,0,,,
+LOW_20mmh_30min,Độ ẩm đất,moisture_percent_vwc,STABLE,10,14.918060479045746,14.88492442349892,14.951418513851248
+LOW_20mmh_30min,Độ ẩm đất,moisture_percent_vwc,WATER_ACCUMULATION,78,22.295324617911167,21.1902027814046,22.91400304021451
+LOW_20mmh_30min,Độ ẩm đất,moisture_percent_vwc,DEFORMATION,72,20.548557468368013,20.000737098097492,21.12638006511534
+LOW_20mmh_30min,Độ ẩm đất,moisture_percent_vwc,SLIDING,0,,,
+LOW_20mmh_30min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,STABLE,10,0.0,0.0,0.0
+LOW_20mmh_30min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,WATER_ACCUMULATION,78,0.39204594994541886,0.00932470253270385,0.8763903794655032
+LOW_20mmh_30min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,DEFORMATION,72,1.4985831906319493,1.4031846893298932,1.5198090544425964
+LOW_20mmh_30min,Áp lực nước lỗ rỗng,pore_pressure_positive_kpa_synthetic,SLIDING,0,,,
+LOW_20mmh_30min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,STABLE,10,0.00046010994704549996,0.00045325831507945,0.00046916173165605
+LOW_20mmh_30min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,WATER_ACCUMULATION,78,0.00052711163961725,0.000520784247858175,0.00053129802314855
+LOW_20mmh_30min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,DEFORMATION,72,0.00052625460064985,0.000517611261947175,0.00053268494465865
+LOW_20mmh_30min,RMS gia tốc M4 tham chiếu,m4_dynamic_rms_g,SLIDING,0,,,
+LOW_20mmh_30min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,STABLE,10,0.05746837810231935,0.0566335104550713,0.05878963170320975
+LOW_20mmh_30min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,WATER_ACCUMULATION,78,0.05989215270669215,0.05885188638906402,0.061228466963964404
+LOW_20mmh_30min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,DEFORMATION,72,0.0602566299123555,0.05933918819452623,0.06142064645624507
+LOW_20mmh_30min,RMS con quay M4 tham chiếu,m4_gyro_rms_deg_s,SLIDING,0,,,
+LOW_20mmh_30min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,STABLE,10,0.15000087883401655,0.11817938158237225,0.1924269053341592
+LOW_20mmh_30min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,WATER_ACCUMULATION,78,0.15000087883401647,0.1075722158318242,0.192426905334159
+LOW_20mmh_30min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,DEFORMATION,72,0.15000087883401536,0.10757221583182468,0.1924269053341591
+LOW_20mmh_30min,Góc nghiêng M4 tham chiếu,m4_tilt_reference_mean_deg,SLIDING,0,,,
+LOW_20mmh_30min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,STABLE,10,0.00052,0.00052,0.00052
+LOW_20mmh_30min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,WATER_ACCUMULATION,78,0.00052,0.00052,0.001110137616042675
+LOW_20mmh_30min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,DEFORMATION,72,0.00377548670890425,0.003222877138076325,0.0039295276680771
+LOW_20mmh_30min,RMS gia tốc C2,c2_dynamic_rms_g_synthetic,SLIDING,0,,,
+LOW_20mmh_30min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,STABLE,10,0.06,0.06,0.06
+LOW_20mmh_30min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,WATER_ACCUMULATION,78,0.06,0.06,0.10210819746858238
+LOW_20mmh_30min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,DEFORMATION,72,0.2884206740926941,0.24993364949724195,0.2991423590119282
+LOW_20mmh_30min,RMS con quay C2,c2_gyro_rms_deg_s_synthetic,SLIDING,0,,,
+LOW_20mmh_30min,Góc nghiêng C2,c2_tilt_deg_synthetic,STABLE,10,0.15,0.15,0.15
+LOW_20mmh_30min,Góc nghiêng C2,c2_tilt_deg_synthetic,WATER_ACCUMULATION,78,0.15,0.15,0.7856184617524514
+LOW_20mmh_30min,Góc nghiêng C2,c2_tilt_deg_synthetic,DEFORMATION,72,2.702338596711267,2.3397968281467114,2.801758914941065
+LOW_20mmh_30min,Góc nghiêng C2,c2_tilt_deg_synthetic,SLIDING,0,,,

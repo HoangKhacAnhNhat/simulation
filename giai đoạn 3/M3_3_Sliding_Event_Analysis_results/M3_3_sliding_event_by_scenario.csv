@@ -1,0 +1,7 @@
+﻿scenario_id,sliding_start_min,sliding_rows,has_sliding
+HIGH_40mmh_10min,,0,False
+HIGH_40mmh_20min,,0,False
+HIGH_40mmh_30min,90.0,71,True
+LOW_20mmh_10min,,0,False
+LOW_20mmh_20min,,0,False
+LOW_20mmh_30min,,0,False

@@ -1,0 +1,73 @@
+﻿scenario_id,relationship,x_variable,y_variable,signal_method,lag_search_range_min,best_lag_min,n_overlap,pearson_r_at_best_lag,spearman_rho_at_best_lag,interpretation
+HIGH_40mmh_10min,Rainfall -> moisture,rainfall_mm_h,moisture_percent_vwc,levels,30,-9.0,131,-0.7666023652538373,-0.45993310550389993,Y dẫn X
+HIGH_40mmh_10min,Rainfall -> moisture,rainfall_mm_h,moisture_percent_vwc,first_difference,30,-9.0,130,-0.34574663880540846,-0.1513299816915955,Y dẫn X
+HIGH_40mmh_10min,Moisture -> pore pressure,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,levels,30,-30.0,110,-0.9796194841389871,-0.9948577630675902,Y dẫn X
+HIGH_40mmh_10min,Moisture -> pore pressure,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,first_difference,30,18.0,121,0.6882394486933971,0.6282695912988132,X dẫn Y
+HIGH_40mmh_10min,Pore pressure -> C2 activation,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,levels,15,15.0,125,0.9515342797562162,0.9045794961494781,X dẫn Y
+HIGH_40mmh_10min,Pore pressure -> C2 activation,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,first_difference,15,15.0,124,0.5984159591742713,0.6359896032227997,X dẫn Y
+HIGH_40mmh_10min,Pore pressure -> M4 dynamic RMS (reference),pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,levels,30,-30.0,110,0.6028336001463306,0.25648851520411153,Y dẫn X
+HIGH_40mmh_10min,Pore pressure -> M4 dynamic RMS (reference),pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,first_difference,30,-30.0,109,0.06765335875080734,0.07041052729126125,Y dẫn X
+HIGH_40mmh_10min,Pore pressure -> M4 gyro RMS (reference),pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,levels,30,-29.0,111,0.21428372300330792,0.05936293436293436,Y dẫn X
+HIGH_40mmh_10min,Pore pressure -> M4 gyro RMS (reference),pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,first_difference,30,-28.0,111,0.03622489646530233,0.03595998595998596,Y dẫn X
+HIGH_40mmh_10min,Pore pressure -> M4 tilt reference,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,levels,30,-30.0,110,-0.011560959191892239,0.01759099341394872,Y dẫn X
+HIGH_40mmh_10min,Pore pressure -> M4 tilt reference,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,first_difference,30,-28.0,111,-0.016978489303024872,-0.00852737198642347,Y dẫn X
+HIGH_40mmh_20min,Rainfall -> moisture,rainfall_mm_h,moisture_percent_vwc,levels,30,-12.0,138,-0.8758667965423919,-0.5692592411197845,Y dẫn X
+HIGH_40mmh_20min,Rainfall -> moisture,rainfall_mm_h,moisture_percent_vwc,first_difference,30,-19.0,130,-0.2693110694875062,-0.1513299816915955,Y dẫn X
+HIGH_40mmh_20min,Moisture -> pore pressure,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,levels,30,-30.0,120,-0.9322235178620112,-0.930214686615681,Y dẫn X
+HIGH_40mmh_20min,Moisture -> pore pressure,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,first_difference,30,20.0,129,0.8123566589125968,0.6718470483005369,X dẫn Y
+HIGH_40mmh_20min,Pore pressure -> C2 activation,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,levels,15,11.0,139,0.9994698138736154,0.9971126839181607,X dẫn Y
+HIGH_40mmh_20min,Pore pressure -> C2 activation,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,first_difference,15,13.0,136,0.9735200907824411,0.9646510917313608,X dẫn Y
+HIGH_40mmh_20min,Pore pressure -> M4 dynamic RMS (reference),pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,levels,30,-30.0,120,0.548387993049654,0.25724703104382246,Y dẫn X
+HIGH_40mmh_20min,Pore pressure -> M4 dynamic RMS (reference),pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,first_difference,30,-23.0,126,0.061476640516564124,0.08664416947881516,Y dẫn X
+HIGH_40mmh_20min,Pore pressure -> M4 gyro RMS (reference),pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,levels,30,-30.0,120,0.1843715629709462,0.12627265782345995,Y dẫn X
+HIGH_40mmh_20min,Pore pressure -> M4 gyro RMS (reference),pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,first_difference,30,-30.0,119,0.04666336978165296,0.04680244979347672,Y dẫn X
+HIGH_40mmh_20min,Pore pressure -> M4 tilt reference,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,levels,30,-30.0,120,-0.011521240079596479,0.03325873202743632,Y dẫn X
+HIGH_40mmh_20min,Pore pressure -> M4 tilt reference,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,first_difference,30,-19.0,130,0.014413425148520446,0.018074009516361254,Y dẫn X
+HIGH_40mmh_30min,Rainfall -> moisture,rainfall_mm_h,moisture_percent_vwc,levels,30,-19.0,141,-0.8928420817807485,-0.604310472258497,Y dẫn X
+HIGH_40mmh_30min,Rainfall -> moisture,rainfall_mm_h,moisture_percent_vwc,first_difference,30,-29.0,130,-0.2413930415543479,-0.1513299816915955,Y dẫn X
+HIGH_40mmh_30min,Moisture -> pore pressure,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,levels,30,30.0,130,0.8750040477686639,0.34330388234169523,X dẫn Y
+HIGH_40mmh_30min,Moisture -> pore pressure,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,first_difference,30,22.0,137,0.8854049590024984,0.7426400582448148,X dẫn Y
+HIGH_40mmh_30min,Pore pressure -> C2 activation,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,levels,15,8.0,152,0.9995102754665856,0.9970662902294823,X dẫn Y
+HIGH_40mmh_30min,Pore pressure -> C2 activation,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,first_difference,15,9.0,150,0.9658601550555909,0.9392485675523632,X dẫn Y
+HIGH_40mmh_30min,Pore pressure -> M4 dynamic RMS (reference),pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,levels,30,-30.0,130,0.5113717589777027,0.19794616886752517,Y dẫn X
+HIGH_40mmh_30min,Pore pressure -> M4 dynamic RMS (reference),pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,first_difference,30,-30.0,129,0.05496343723024208,0.06394789803220037,Y dẫn X
+HIGH_40mmh_30min,Pore pressure -> M4 gyro RMS (reference),pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,levels,30,-28.0,132,0.1755738452571457,0.12270092302233723,Y dẫn X
+HIGH_40mmh_30min,Pore pressure -> M4 gyro RMS (reference),pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,first_difference,30,-5.0,154,-0.027126513408169396,-0.027434031225245903,Y dẫn X
+HIGH_40mmh_30min,Pore pressure -> M4 tilt reference,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,levels,30,28.0,132,0.016339728582086273,0.06999778281150305,X dẫn Y
+HIGH_40mmh_30min,Pore pressure -> M4 tilt reference,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,first_difference,30,-20.0,139,0.013458827720434113,0.018227633840711806,Y dẫn X
+LOW_20mmh_10min,Rainfall -> moisture,rainfall_mm_h,moisture_percent_vwc,levels,30,-9.0,131,-0.6272478541412447,-0.45993310550389993,Y dẫn X
+LOW_20mmh_10min,Rainfall -> moisture,rainfall_mm_h,moisture_percent_vwc,first_difference,30,-9.0,130,-0.32692005715726946,-0.1513299816915955,Y dẫn X
+LOW_20mmh_10min,Moisture -> pore pressure,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,levels,30,,0,,,Không xác định
+LOW_20mmh_10min,Moisture -> pore pressure,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,first_difference,30,,0,,,Không xác định
+LOW_20mmh_10min,Pore pressure -> C2 activation,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,levels,15,,0,,,Không xác định
+LOW_20mmh_10min,Pore pressure -> C2 activation,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,first_difference,15,,0,,,Không xác định
+LOW_20mmh_10min,Pore pressure -> M4 dynamic RMS (reference),pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,levels,30,,0,,,Không xác định
+LOW_20mmh_10min,Pore pressure -> M4 dynamic RMS (reference),pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,first_difference,30,,0,,,Không xác định
+LOW_20mmh_10min,Pore pressure -> M4 gyro RMS (reference),pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,levels,30,,0,,,Không xác định
+LOW_20mmh_10min,Pore pressure -> M4 gyro RMS (reference),pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,first_difference,30,,0,,,Không xác định
+LOW_20mmh_10min,Pore pressure -> M4 tilt reference,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,levels,30,,0,,,Không xác định
+LOW_20mmh_10min,Pore pressure -> M4 tilt reference,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,first_difference,30,,0,,,Không xác định
+LOW_20mmh_20min,Rainfall -> moisture,rainfall_mm_h,moisture_percent_vwc,levels,30,-13.0,137,-0.8265657662977571,-0.556293911166591,Y dẫn X
+LOW_20mmh_20min,Rainfall -> moisture,rainfall_mm_h,moisture_percent_vwc,first_difference,30,-19.0,130,-0.24019825308924947,-0.1513299816915955,Y dẫn X
+LOW_20mmh_20min,Moisture -> pore pressure,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,levels,30,-30.0,120,-0.9483706333695725,-0.9582474434716601,Y dẫn X
+LOW_20mmh_20min,Moisture -> pore pressure,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,first_difference,30,22.0,127,0.7892299816528173,0.665920655311623,X dẫn Y
+LOW_20mmh_20min,Pore pressure -> C2 activation,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,levels,15,15.0,135,0.930332964286632,0.8959926799758107,X dẫn Y
+LOW_20mmh_20min,Pore pressure -> C2 activation,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,first_difference,15,15.0,134,0.5983483528026848,0.6613710991383736,X dẫn Y
+LOW_20mmh_20min,Pore pressure -> M4 dynamic RMS (reference),pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,levels,30,-30.0,120,0.5769086983075299,0.21491770261823734,Y dẫn X
+LOW_20mmh_20min,Pore pressure -> M4 dynamic RMS (reference),pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,first_difference,30,-28.0,121,0.05300293957397405,0.0721175992412952,Y dẫn X
+LOW_20mmh_20min,Pore pressure -> M4 gyro RMS (reference),pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,levels,30,-30.0,120,0.18955811325144573,0.07808875616362246,Y dẫn X
+LOW_20mmh_20min,Pore pressure -> M4 gyro RMS (reference),pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,first_difference,30,-30.0,119,0.04344049945138624,0.04373308645492096,Y dẫn X
+LOW_20mmh_20min,Pore pressure -> M4 tilt reference,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,levels,30,-30.0,120,-0.009884247944208748,0.020710234680128097,Y dẫn X
+LOW_20mmh_20min,Pore pressure -> M4 tilt reference,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,first_difference,30,-25.0,124,0.012708986903896154,0.012359048770848084,Y dẫn X
+LOW_20mmh_30min,Rainfall -> moisture,rainfall_mm_h,moisture_percent_vwc,levels,30,-18.0,142,-0.8705137088904542,-0.6148729460391532,Y dẫn X
+LOW_20mmh_30min,Rainfall -> moisture,rainfall_mm_h,moisture_percent_vwc,first_difference,30,30.0,129,0.23350044380823753,0.15214073197398978,X dẫn Y
+LOW_20mmh_30min,Moisture -> pore pressure,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,levels,30,30.0,130,0.8623347501436555,0.35664832238593996,X dẫn Y
+LOW_20mmh_30min,Moisture -> pore pressure,delayed_moisture_percent,pore_pressure_positive_kpa_synthetic,first_difference,30,26.0,133,0.8664132270325527,0.7435906591444691,X dẫn Y
+LOW_20mmh_30min,Pore pressure -> C2 activation,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,levels,15,15.0,145,0.9983443241867008,0.98253124476775,X dẫn Y
+LOW_20mmh_30min,Pore pressure -> C2 activation,pore_pressure_positive_kpa_synthetic,c2_motion_activation_0_1,first_difference,15,15.0,144,0.9513731866295083,0.9094631128548114,X dẫn Y
+LOW_20mmh_30min,Pore pressure -> M4 dynamic RMS (reference),pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,levels,30,-30.0,130,0.49704021701657547,0.2218492673667536,Y dẫn X
+LOW_20mmh_30min,Pore pressure -> M4 dynamic RMS (reference),pore_pressure_positive_kpa_synthetic,m4_dynamic_rms_g,first_difference,30,-30.0,129,0.04705896107775659,0.06842576028622542,Y dẫn X
+LOW_20mmh_30min,Pore pressure -> M4 gyro RMS (reference),pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,levels,30,-28.0,132,0.1636763931932862,0.11385681413805158,Y dẫn X
+LOW_20mmh_30min,Pore pressure -> M4 gyro RMS (reference),pore_pressure_positive_kpa_synthetic,m4_gyro_rms_deg_s,first_difference,30,-15.0,144,-0.029212536203333368,-0.024653790323783165,Y dẫn X
+LOW_20mmh_30min,Pore pressure -> M4 tilt reference,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,levels,30,28.0,132,0.015965064001285546,0.06942866416865079,X dẫn Y
+LOW_20mmh_30min,Pore pressure -> M4 tilt reference,pore_pressure_positive_kpa_synthetic,m4_tilt_reference_mean_deg,first_difference,30,-26.0,133,0.014094800973903709,0.016000816931366985,Y dẫn X
